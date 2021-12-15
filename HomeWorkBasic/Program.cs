@@ -97,7 +97,6 @@ namespace HomeWorkBasic
                     {
                         Swap(ref array[i, j], ref array[j, i]);
                     }
-
                 }
             }
 
